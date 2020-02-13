@@ -1,0 +1,10 @@
+{
+    "apps" : [
+      {
+        "name"      : "micronaut-app-fe",
+        "script"    : "yarn",
+        "interpreter": "none",
+        "args": "start"
+      }
+    ]
+  }
